@@ -1,0 +1,17 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+#app {
+  display: flex;
+  color: black;
+  min-height: 100dvh;
+}
+main {
+  margin: auto;
+}
+video {
+  max-width: 50dvw;
+  max-height: 50dvh;
+}
+
